@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 import random
-from utils import QuestionGenerator
+from Utils import QuestionGenerator
 import os
 
 # Main class to handle quiz functionality
